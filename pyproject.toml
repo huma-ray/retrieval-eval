@@ -1,0 +1,12 @@
+[project]
+name = "retrieval-eval"
+version = "0.1.0"
+description = "Retrieval evaluation harness: BM25 vs dense vs hybrid vs reranked, on BEIR FiQA-2018"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "bm25s>=0.2.10",
+    "PyStemmer>=2.2",
+    "sentence-transformers>=3.0",
+    "torch>=2.3",
+]

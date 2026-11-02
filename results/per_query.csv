@@ -1,0 +1,649 @@
+query_id,query,BM25 | ndcg@10,BM25 | recall@10,Dense (bge-small-en-v1.5) | ndcg@10,Dense (bge-small-en-v1.5) | recall@10,Hybrid RRF | ndcg@10,Hybrid RRF | recall@10,Hybrid weighted (alpha=0.7) | ndcg@10,Hybrid weighted (alpha=0.7) | recall@10,Hybrid weighted (alpha=0.7) + rerank | ndcg@10,Hybrid weighted (alpha=0.7) + rerank | recall@10
+10034,Tax implications of holding EWU (or other such UK ETFs) as a US citizen?,0.0,0.0,0.2044,0.5,0.2372,0.5,0.2044,0.5,0.2184,0.5
+10039,Do individual investors use Google to obtain stock quotes?,0.0,0.0,1.0,1.0,0.3155,1.0,1.0,1.0,1.0,1.0
+10109,Why does Charles Schwab have a Mandatory Settlement Period after selling stocks?,0.3933,0.2857,0.4123,0.2857,0.4483,0.2857,0.4123,0.2857,0.4483,0.2857
+10122,Why diversify stocks/investments?,0.1128,0.25,0.1952,0.25,0.2463,0.25,0.1952,0.25,0.3904,0.25
+10136,How to minimise the risk of a reduction in purchase power in case of Brexit for money held in a bank account?,0.0,0.0,0.1413,0.3333,0.0,0.0,0.1357,0.3333,0.0,0.0
+10137,F-1 student investing in foreign markets,0.0,0.0,0.4307,1.0,0.3562,1.0,0.4307,1.0,0.3869,1.0
+10152,What does a high operating margin but a small but positive ROE imply about a company?,0.5,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,1.0,1.0
+10183,How are various types of income taxed differently in the USA?,0.0,0.0,0.1846,0.5,0.0,0.0,0.1772,0.5,0.1934,0.5
+10213,Looking for good investment vehicle for seasonal work and savings,0.2021,0.3333,0.0,0.0,0.2346,0.3333,0.1672,0.3333,0.0,0.0
+10246,Understanding the T + 3 settlement days rule,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10267,How should I prepare for the next financial crisis?,0.0,0.0,0.1461,0.2,0.1696,0.2,0.1208,0.2,0.1021,0.2
+104,Investing/business with other people's money: How does it work?,0.0,0.0,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+10414,What is considered high or low when talking about volume?,0.6131,0.5,0.8316,1.0,0.9197,1.0,0.9197,1.0,0.8772,1.0
+10447,Is there an advantage to a traditional but non-deductable IRA over a taxable account? [duplicate],0.148,0.3333,0.2346,0.3333,0.2346,0.3333,0.2346,0.3333,0.0,0.0
+10462,"Is it okay to be married, 30 years old and have no retirement?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10482,Rollover into bond fund to do dollar cost averaging [duplicate],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10497,Why would you elect to apply a refund to next year's tax bill?,0.3996,0.3,0.4944,0.4,0.492,0.4,0.5068,0.4,0.6274,0.5
+10526,What extra information might be obtained from the next highest bids in an order book?,0.0,0.0,0.2641,0.5,0.2184,0.5,0.2184,0.5,0.1772,0.5
+10547,How much do brokerages pay exchanges per trade?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10558,Investment strategy for 401k when rolling over soon,0.0,0.0,1.0,1.0,0.3066,0.5,0.8772,1.0,0.3066,0.5
+10596,Does a market maker sell (buy) at a bid or ask price?,0.9456,1.0,0.8123,0.8,0.9566,1.0,0.9456,1.0,0.9896,1.0
+106,What approaches are there for pricing a small business?,0.0,0.0,0.6309,1.0,0.0,0.0,0.5,1.0,0.0,0.0
+10601,Bitcoin Cost Basis Purchases,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+10628,"What happens with the “long” buyer of a stock when somebody else's short fails (that is, unlimited loss bankrupts short seller)",0.0,0.0,0.3333,1.0,0.0,0.0,0.301,1.0,0.0,0.0
+10639,Short term parking of a large inheritance?,0.0,0.0,0.1131,0.2,0.1696,0.2,0.1312,0.2,0.3392,0.2
+10645,Explain the details and benefits of rebalancing a retirement portfolio?,0.2641,0.5,0.2372,0.5,0.6131,0.5,0.3869,0.5,0.511,1.0
+10674,How to sell a stock in a crashing market?,0.3904,0.25,0.7366,0.75,0.789,1.0,0.7366,0.75,0.5148,0.75
+10710,Probablity of touching In the money vs expiring in the money for an american option,0.0,0.0,0.5,1.0,0.301,1.0,0.3869,1.0,0.6309,1.0
+10734,How do you translate a per year salary into a part-time per hour job?,0.589,0.5,0.9635,1.0,0.7526,0.6667,0.876,0.8333,0.9715,1.0
+1074,How common is “pass-through” health insurance?,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+10792,How can I calculate a “running” return using XIRR in a spreadsheet?,0.1934,0.5,0.6934,1.0,0.4575,1.0,0.4685,1.0,0.5013,1.0
+10808,What are a few sites that make it easy to invest in high interest rate mutual funds?,0.0,0.0,0.2021,0.3333,0.0,0.0,0.148,0.3333,0.2769,0.6667
+10809,Definitions of leverage and of leverage factor,0.1815,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+10812,Is is possible to dispute IRS underpayment penalties?,0.9709,1.0,0.7668,0.75,0.962,1.0,0.955,1.0,0.9349,1.0
+10827,How much should I be contributing to my 401k given my employer's contribution?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10845,"Rationale behind using 12, 26 and 9 to calculate MACD",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1085,How do disputed debts work on credit reports?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,How to account for money earned and spent prior to establishing business bank accounts?,0.3562,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1090,Need a formula to determine monthly payments received at time t if I'm reinvesting my returns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10912,Forex independent investments,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10932,Transferring money from 403B to 401K?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+10975,How to contribute to Roth IRA when income is at the maximum limit & you have employer-sponsored 401k plans?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10979,Closing a futures position,0.4415,0.5,0.5856,0.5,0.4415,0.5,0.5856,0.5,0.5414,0.5
+10994,Net loss not distributed by mutual funds to their shareholders?,0.4838,1.0,0.2184,0.5,0.4575,1.0,0.4144,1.0,0.511,1.0
+11039,Pay off credit card debt or earn employer 401(k) match?,0.1265,0.125,0.4134,0.375,0.2529,0.125,0.343,0.25,0.0,0.0
+11054,Short Term Capital Gains tax vs. IRA Withdrawal Tax w/o Quarterly Est. Taxes,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+11088,Am I required to have a lawyer create / oversee creation of my will?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,0.3562,1.0
+1150,How are the best way to make and save money at 22 years old,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1157,Personal taxes for Shopify / Paypal shop?,0.3869,0.5,0.3869,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+1159,what is the best way to do a freelancing job over the summer for a student,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1198,What are the consequences of IRS “reclassification” on both employer and employee?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+1230,How does Walmart account their expired food,0.0,0.0,0.5,1.0,0.0,0.0,0.5,1.0,0.0,0.0
+1281,How FTB and IRS find mistakes in amended tax returns? Are their processes reliable?,0.0,0.0,1.0,1.0,0.3155,1.0,1.0,1.0,0.4307,1.0
+1284,Tax consequences when foreign currency changes in value,1.0,1.0,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1297,Why aren't there solutions for electronic itemized receipt for retail in-store purchases?,0.301,1.0,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1306,"I made an investment with a company that contacted me, was it safe?",0.5294,0.5,0.0,0.0,0.3904,0.25,0.2463,0.25,0.3904,0.25
+1309,Why does FlagStar Bank harass you about payments within grace period?,0.2304,0.5,0.7877,0.75,0.6367,0.5,0.7495,0.75,0.3633,0.5
+1310,Is is possible to take a mortgage using Bitcoin as collateral?,1.0,1.0,0.3155,1.0,0.5,1.0,0.4307,1.0,1.0,1.0
+1321,"Are social media accounts (e.g. YouTube, Twitter, Instagram, etc.) considered assets?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1322,Is this follow-up after a car crash a potential scam?,0.0,0.0,0.3904,0.25,0.1175,0.25,0.3904,0.25,0.1232,0.25
+1391,How is taxation for youtube/twitch etc monetization handled in the UK?,0.0,0.0,0.1413,0.3333,0.0,0.0,0.1413,0.3333,0.2021,0.3333
+1393,"Which is better when working as a contractor, 1099 or incorporating?",0.0875,0.1667,0.4935,0.3333,0.1909,0.1667,0.4329,0.3333,0.2816,0.3333
+1415,I am not VAT registered. Do I need to buy from my supplier with excl VAT prices or incl VAT?,1.0,1.0,0.9709,1.0,1.0,1.0,0.9829,1.0,0.9709,1.0
+1416,US resident with Canadian income via T4A-NR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1441,What's the difference between Market Cap and NAV?,0.9439,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9109,1.0
+1451,"How do you find an ethical, honest independent insurance broker in Canada?",0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1469,Why do some companies report how well their EBITDA performed even if their overall net profit did equally well?,0.6309,1.0,0.6309,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+15,Can I send a money order from USPS as a business?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0
+1530,"What is the proper way to report additional income for taxes (specifically, Android development)?",0.0,0.0,0.672,1.0,0.4776,0.6667,0.5307,0.6667,0.5307,0.6667
+1670,Investing in hemp producers in advance of possible legalization in Canada?,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667
+1676,W2 vs 1099 Employee status,0.5856,0.5,0.6542,0.75,0.7031,0.75,0.6984,0.75,0.6976,0.75
+1736,How can people have such high credit card debts?,0.5087,0.4,0.214,0.2,0.4852,0.4,0.4704,0.4,0.4852,0.4
+1748,"How high should I set my KickStarter funding goal in order to have $35,000 left over?",0.2346,0.3333,0.6714,0.6667,0.7039,0.6667,0.7039,0.6667,0.6049,0.6667
+1783,Freelancing Tax implication,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,1 EIN doing business under multiple business names,0.0,0.0,1.0,1.0,0.4307,1.0,0.6309,1.0,0.0,0.0
+1812,splitting a joint mortgage - one owner in home,0.6131,0.5,0.1934,0.5,0.6131,0.5,0.3869,0.5,0.6131,0.5
+1815,Rules for SEP contributions in an LLC?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1819,Found an old un-cashed paycheck. How long is it good for? What to do if it's expired?,0.0,0.0,0.2424,0.3333,0.0,0.0,0.2214,0.3333,0.3026,0.1667
+1824,Is there a way to open a U.S. bank account for my LLC remotely?,0.0,0.0,0.6309,1.0,0.301,1.0,0.5,1.0,0.0,0.0
+1826,"Is the contribution towards Employment Insurance (EI) wasted if I never get fired, or are my premiums refunded?",0.8319,0.75,0.9494,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1832,Warren Buffett and Charles Munger advice for small investors?,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.4307,1.0
+1871,Is there any US bank that does not charge for incoming wire transfers?,0.3904,0.25,0.6976,0.75,0.5414,0.5,0.4853,0.75,0.8224,1.0
+1877,"As a Sole Proprietor, will “employer” Solo 401k contributions count towards gross income?",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1889,Reporting financial gains from my online store,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1915,Should I pay a company who failed to collect VAT from me over 6 months ago?,0.2372,0.5,0.6934,1.0,0.6131,0.5,0.8772,1.0,0.2641,0.5
+1920,Clarification on student expenses - To file the tax for the next year,0.0,0.0,0.4307,1.0,0.0,0.0,0.3333,1.0,0.0,0.0
+1933,UK sole trader who often buys products/services on behalf of clients – do I deduct from declared income or claim as allowable expenses?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1948,Which colors can one use to fill out a check in the US?,0.5,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1994,Does the IRS reprieve those who have to commute for work?,0.4622,0.6,0.2189,0.4,0.3836,0.4,0.3156,0.4,0.4078,0.6
+2010,Paypal website donations without being a charity,0.2961,0.3333,0.8127,1.0,0.6257,0.6667,0.6508,0.6667,0.6714,0.6667
+2051,Where to find the 5 or 10 year returns for a mutual fund?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2070,"Advantage of credit union or local community bank over larger nationwide banks such as BOA, Chase, etc.?",0.2961,0.3333,0.0,0.0,0.1815,0.3333,0.1564,0.3333,0.0,0.0
+2075,Are stories of turning a few thousands into millions by trading stocks real?,0.235,0.1111,0.522,0.4444,0.232,0.2222,0.4435,0.3333,0.3366,0.3333
+2076,Can vet / veterinary bills be considered deductions (tax-deductible) for Income Tax purposes [Canada]?,0.0,0.0,1.0,1.0,0.0,0.0,0.6934,1.0,0.6934,1.0
+2088,How would I go about selling the stock of a privately held company?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2108,Can I pay taxes using bill pay from my on-line checking account?,0.0,0.0,0.1357,0.3333,0.0,0.0,0.0,0.0,0.0,0.0
+2118,What happened in Argentina in 2001 bank sector? did the banks closed? all or some?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2154,"What tax software automatically determines the best filing status, etc?",0.0,0.0,0.0,0.0,0.2891,1.0,0.0,0.0,0.0,0.0
+2181,What are the risks & rewards of being a self-employed independent contractor / consultant vs. being a permanent employee?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2183,Why are there many small banks and more banks in the U.S.?,0.3026,0.1667,0.7359,0.6667,0.4539,0.3333,0.6238,0.5,0.282,0.3333
+2204,What's an economic explanation for why greeting cards are so expensive?,0.7212,0.625,0.9099,0.875,0.8219,0.75,0.9099,0.875,0.8219,0.75
+2264,Personal Tax Return software for Linux?,0.3869,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.0,0.0
+2296,How does a bank make money on an interest free secured loan?,0.2658,0.2222,0.3134,0.2222,0.3526,0.2222,0.3363,0.2222,0.4267,0.3333
+2306,To whom should I report fraud on both of my credit cards?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.3869,0.5
+2316,What exchange rate does El Al use when converting final payment amount to shekels?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2318,F1 student and eBay selling tax,0.0,0.0,0.0,0.0,0.3562,1.0,0.0,0.0,0.3333,1.0
+2330,How can I determine if a debt consolidation offer is real or a scam?,0.6131,0.5,0.9197,1.0,0.6131,0.5,0.8316,1.0,0.6131,0.5
+2334,How do you determine “excess cash” for Enterprise Value calculations from a balance sheet?,0.2961,0.3333,0.7039,0.6667,0.2961,0.3333,0.6714,0.6667,0.8452,1.0
+2348,Why can't you just have someone invest for you and split the profits (and losses) with him?,0.3301,0.1333,0.3843,0.2,0.6275,0.3333,0.4153,0.2,0.5541,0.2667
+2376,Why do gas stations charge different amounts in the same local area?,0.5538,0.5,0.8178,0.75,0.9202,0.875,0.9062,0.875,0.7134,0.625
+2383,Should I Purchase Health Insurance Through My S-Corp,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+2384,Tax: 1099 paper form,0.0,0.0,0.5,1.0,0.5,1.0,0.5,1.0,0.5,1.0
+2385,"As director, can I invoice my self-owned company?",0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+2388,Do financial advisors get better deals on mortgages?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+2395,Freelance site with lowest commission fees?,0.6309,1.0,0.301,1.0,0.5,1.0,0.5,1.0,0.4307,1.0
+2398,Frustrated Landlord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1461,0.2
+2399,Where do web sites get foreign exchange currency rate / quote information?,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2400,Will I be paid dividends if I own shares?,0.2021,0.3333,0.2961,0.3333,0.4018,0.6667,0.3703,0.6667,0.7039,0.6667
+2407,How long to wait after getting a mortgage to increase my credit limit?,0.3904,0.25,0.0,0.0,0.1952,0.25,0.1952,0.25,0.2463,0.25
+2416,Why should a company go public?,0.5294,0.5,0.7095,0.75,0.5585,0.5,0.8397,1.0,0.8665,1.0
+2423,At what age should I start or stop saving money?,0.2749,0.1429,0.2798,0.2857,0.4123,0.2857,0.4483,0.2857,0.3576,0.2857
+2443,What are some way to transfer money from Hong Kong to India on a monthly basis?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2445,How do I notify the IRS of a new member to an LLC?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2460,What are the consequences of not respecting a notice period when leaving a job?,0.6257,0.6667,1.0,1.0,0.9469,1.0,1.0,1.0,0.6183,1.0
+2465,Can capital expenses for volunteer purposes be deducted from income?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2472,How do I deal with a mistaken attempt to collect a debt from me that is owed by someone else?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2486,"Is working on a W2 basis, with benefits paid to me, a good idea?",0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2498,How do I calculate tax liability on the turnover of a small vendor?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2513,How does revenue shared with someone else go into my tax return in Canada?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2516,Which banks have cash-deposit machines in Germany?,0.3904,0.25,0.6367,0.5,0.5079,0.5,0.6367,0.5,0.5856,0.5
+2549,How to graph the market year over year? for example Dow Jones Index,0.0,0.0,0.0,0.0,0.2372,0.5,0.1772,0.5,0.3066,0.5
+2551,How to find cheaper alternatives to a traditional home telephone line?,0.0,0.0,1.0,1.0,0.6871,1.0,0.9675,1.0,0.7328,1.0
+2568,How to pay with cash when car shopping?,0.0,0.0,0.5187,0.4286,0.1734,0.1429,0.3728,0.2857,0.2749,0.1429
+2579,What to do when a job offer is made but with a salary less than what was asked for?,0.0,0.0,0.2987,0.3333,0.2424,0.3333,0.3937,0.3333,0.3026,0.1667
+2580,Stock market vs. baseball card trading analogy,0.7654,0.6667,0.4693,0.3333,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667
+2587,Typically how many digits are in a cheque number?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2589,How can I detect potential fraud in a company before investing in them?,0.4162,0.6667,0.9469,1.0,0.9325,1.0,0.9469,1.0,0.8603,1.0
+2590,Are non-residents or foreigners permitted to buy or own shares of UK companies?,0.1564,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+2593,Am I “cheating the system” by opening up a tiny account with a credit union and then immediately applying for a huge loan?,0.6714,0.6667,0.2961,0.3333,0.6364,0.6667,0.6105,0.6667,0.5307,0.6667
+2598,Is it possible for US retail forex traders to trade exotic currencies?,0.2184,0.5,0.3869,0.5,0.3066,0.5,0.3869,0.5,0.6131,0.5
+26,Applying for and receiving business credit,0.1846,0.5,0.2184,0.5,0.0,0.0,0.1772,0.5,0.2044,0.5
+2648,How does unemployment insurance work?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0
+2676,Tax question about selling a car,0.0,0.0,0.6309,1.0,0.4307,1.0,0.5,1.0,0.5,1.0
+2685,What ways are there for us to earn a little extra side money?,0.0,0.0,0.2529,0.125,0.2529,0.125,0.2529,0.125,0.1596,0.125
+2695,"Buy a parking spot and rent it out, or invest savings in an interest-bearing account?",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2713,Physical Checks - Mailing,0.1934,0.5,0.0,0.0,0.2372,0.5,0.0,0.0,0.0,0.0
+2724,How do you determine the dividend payout date for Mutual Funds?,0.2372,0.5,0.2044,0.5,0.5,1.0,0.4144,1.0,0.2372,0.5
+2737,What to do with an old building to get money,0.301,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,1.0,1.0
+2747,What evidence do I need to declare tutoring income on my income tax?,0.0,0.0,0.5,1.0,0.3333,1.0,0.5,1.0,0.4307,1.0
+2749,Is it possible to create a self-managed superannuation fund to act as a mortage offset? (Australia),0.6131,0.5,1.0,1.0,0.6131,0.5,1.0,1.0,1.0,1.0
+2790,Should I pay more than 20% down on a home?,0.2438,0.2857,0.3576,0.2857,0.4123,0.2857,0.3812,0.2857,0.2749,0.1429
+2801,If I deposit money as cash does it count as direct deposit?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+2856,How can I cash out a check internationally?,0.0,0.0,0.5446,0.75,0.2463,0.25,0.5716,0.75,0.7095,0.75
+2857,"I have around 60K $. Thinking about investing in Oil, how to proceed?",0.1391,0.25,0.5856,0.5,0.3904,0.25,0.6367,0.5,0.1232,0.25
+2880,Can I transfer my investment property into a SMSF?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2885,Merits of buying apartment houses and renting them,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2891,May I claim money earned but not received in 2012,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2895,Where should a young student put their money?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2903,How should I file my taxes as a contractor?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2923,Should I give to charity by check or credit card?,0.2443,0.4,0.8539,0.8,0.6844,0.6,0.8539,0.8,0.6068,0.6
+2964,Unmarried Couple Splitting up with Joint Ownership of Home,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2968,Should I prioritize retirement savings inside of my HSA?,0.2641,0.5,1.0,1.0,0.8772,1.0,0.9197,1.0,0.8066,1.0
+2994,Work on the side for my wife's company,0.0,0.0,0.1564,0.3333,0.2961,0.3333,0.1815,0.3333,0.2021,0.3333
+3006,"Strategies for putting away money for a child's future (college, etc.)?",0.0875,0.1667,0.3026,0.1667,0.1303,0.1667,0.2381,0.3333,0.1909,0.1667
+3008,What are my chances at getting a mortgage with Terrible credit but High income,0.0,0.0,0.5135,0.5,0.1301,0.25,0.5032,0.5,0.5135,0.5
+3014,What investments are positively related to the housing market decline?,0.0,0.0,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.3869,0.5
+3033,Tax consequences of changing state residency?,0.0,0.0,0.6131,0.5,0.3066,0.5,0.6131,0.5,0.3869,0.5
+3039,Can increasing my tax withholding from my full-time job cover FICA taxes for my freelance work?,0.3562,1.0,0.3562,1.0,0.4307,1.0,0.4307,1.0,1.0,1.0
+3049,How to calculate my estimated taxes. 1099 MISC + Self Employment,0.1681,0.25,0.6367,0.5,0.3695,0.5,0.5294,0.5,0.6542,0.75
+3051,What items are exempt from the VAT? [U.K.],0.5641,1.0,1.0,1.0,0.9197,1.0,1.0,1.0,1.0,1.0
+3067,Should I make extra payments to my under water mortgage or increase my savings?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3085,How long can I convert 401(k) to Roth 401(k)?,0.0,0.0,0.6053,1.0,0.0,0.0,0.5,1.0,0.3869,0.5
+3091,Am I considered in debt if I pay a mortgage?,0.1184,0.1429,0.9804,1.0,0.7153,0.7143,0.8972,0.8571,0.9815,1.0
+3103,"AVS Address Verification System of BOTH Credit and Debit Cards - WHERE, HOW?",0.3869,1.0,1.0,1.0,0.6309,1.0,0.6309,1.0,0.6309,1.0
+3115,How can I live outside of the rat race of American life with 300k?,0.4935,0.3333,0.4539,0.3333,0.6238,0.5,0.5842,0.5,0.6448,0.5
+3125,"Claiming mileage allowances, what are the rules/guidelines?",0.3869,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+3148,Can a car company refuse to give me a copy of my contract or balance details?,0.5531,0.4,0.5531,0.4,0.5531,0.4,0.5531,0.4,0.5531,0.4
+3149,Tips for insurance coverage for one-man-teams,0.0,0.0,0.1934,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+3177,Vanguard ETF vs mutual fund,0.1815,0.3333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3179,"Calculation, timing, and taxes related to profit distribution of an S-corp?",0.3066,0.5,0.6131,0.5,0.3869,0.5,0.6131,0.5,0.2641,0.5
+3186,United States Treasury Not Endorsing Checks,0.8066,1.0,0.9197,1.0,1.0,1.0,0.9197,1.0,0.6131,0.5
+3189,Diversify my retirement investments with a Roth IRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3254,Why do people buy US dollars on the black market?,0.4693,0.3333,0.4693,0.3333,0.6105,0.6667,0.6105,0.6667,0.4693,0.3333
+3264,Pros and Cons of Interest Only Loans,0.0,0.0,0.6367,0.5,0.6984,0.75,0.7757,0.75,0.7757,0.75
+3357,Why big clients want the contractor to be incorporated before giving them work,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3369,Why should one only contribute up to the employer's match in a 401(k)?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3394,What is the easiest way to back-test index funds and ETFs?,0.0,0.0,0.6367,0.5,0.0,0.0,0.6367,0.5,0.0,0.0
+34,401k Transfer After Business Closure,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3404,"In US, is it a good idea to hire a tax consultant for doing taxes?",0.0,0.0,0.1374,0.1429,0.1734,0.1429,0.2749,0.1429,0.2051,0.2857
+3405,Non Resident aliens - Question of standard vs itemized,0.0,0.0,0.301,1.0,0.0,0.0,0.2891,1.0,0.3155,1.0
+3446,What's the difference between Term and Whole Life insurance?,0.252,0.4,0.5531,0.4,0.3156,0.4,0.5531,0.4,0.5531,0.4
+3451,Should you keep your stocks if you are too late to sell?,0.0,0.0,0.2749,0.1429,0.0,0.0,0.2749,0.1429,0.1744,0.2857
+3453,How does spot-futures arbitrage work in the gold market?,0.3066,0.5,0.4228,1.0,0.5912,1.0,0.6241,1.0,0.5,1.0
+3480,Why is OkPay not allowed in the United States?,0.8319,0.75,1.0,1.0,0.9829,1.0,1.0,1.0,1.0,1.0
+3490,Tax Witholding for Stock Sale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3500,Why invest in becoming a landlord?,0.3212,0.3333,0.2864,0.3333,0.429,0.5,0.3955,0.5,0.4935,0.3333
+3503,Is there any instance where less leverage will get you a better return on a rental property?,0.1978,0.2857,0.6223,0.7143,0.5356,0.5714,0.6335,0.7143,0.615,0.7143
+3512,"As an employee, when is it inappropriate to request to see your young/startup company's financial statements?",0.3869,0.5,1.0,1.0,0.6131,0.5,1.0,1.0,0.8772,1.0
+3528,"In the US, does getting a loan with a cosigner, help your credit rating?",0.2891,1.0,0.301,1.0,0.3562,1.0,0.3155,1.0,0.3869,1.0
+3530,How to exclude stock from mutual fund,0.0,0.0,0.4693,0.3333,0.2961,0.3333,0.4693,0.3333,0.4693,0.3333
+3534,Why do dishonour fees exist?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3566,"Where can I buy stocks if I only want to invest a little bit at a time, and not really be involved in trading?",0.1815,0.3333,0.2021,0.3333,0.2961,0.3333,0.3296,0.6667,0.4693,0.3333
+3569,Funds in closed bank account have gone to the government,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4307,1.0
+3594,"If I were to get into a life situation where I would not be able to make regular payments, do lenders typically provide options other than default?",0.0,0.0,0.7877,0.75,0.151,0.25,0.7366,0.75,0.3854,0.5
+3612,How can I buy and sell the same stock on the same day?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3615,My previous and current employers both use Fidelity for 401(k). Does it make sense to rollover?,0.0,0.0,0.6934,1.0,0.511,1.0,0.5438,1.0,0.5714,1.0
+3625,What should I do with my paper financial documents?,0.0,0.0,0.2961,0.3333,0.1815,0.3333,0.2961,0.3333,0.2961,0.3333
+3682,Short selling - lender's motivation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3683,Can I trust the Motley Fool?,0.1513,0.1667,0.5245,0.6667,0.3212,0.3333,0.4377,0.5,0.2816,0.3333
+3694,Has anyone created a documentary about folks who fail to save enough for retirement?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.3066,0.5
+3724,Should you always max out contributions to your 401k?,0.0,0.0,0.1396,0.2,0.0,0.0,0.0636,0.1,0.0734,0.1
+3735,Shorting Stocks And Margin Account Minimum,0.0,0.0,0.2961,0.3333,0.0,0.0,0.2961,0.3333,0.0,0.0
+3759,Simplifying money management,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3767,What should I be doing to protect myself from identity theft?,0.0,0.0,0.1131,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+3771,Best way to buy Japanese yen for travel?,0.0,0.0,0.4935,0.3333,0.0,0.0,0.3422,0.3333,0.1078,0.1667
+3781,What is the rough estimate of salary value for a taxpayer to pay AMT?,1.0,1.0,0.9197,1.0,1.0,1.0,0.9197,1.0,0.8772,1.0
+3789,How to work around the Owner Occupancy Affidavit to buy another home in less than a year?,0.7495,0.75,0.7668,0.75,0.7537,0.75,0.7877,0.75,0.8319,0.75
+3791,"""When people say 'Interest rates are at all time low!"""" … Which interest rate are they actually referring to?""",0.6508,0.6667,0.5307,0.6667,0.7039,0.6667,0.5307,0.6667,0.1815,0.3333
+3801,Can a bunch of wealthy people force Facebook to go public?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+3822,How to change a large quantity of U.S. dollars into Euros?,0.0,0.0,0.2463,0.25,0.0,0.0,0.2463,0.25,0.1681,0.25
+3829,Are all VISA cards connected with bank accounts?,0.0,0.0,0.2641,0.5,0.0,0.0,0.1846,0.5,0.0,0.0
+3830,US citizen transferring money to Indian fiance to buy property,0.3155,1.0,0.2891,1.0,0.5,1.0,0.3333,1.0,0.5,1.0
+3837,"Opening a Roth IRA account, what is the fee structure for Vanguard, Scottrade and TIAA-CREF",0.5,1.0,1.0,1.0,0.6309,1.0,0.5,1.0,1.0,1.0
+3859,Buying an investment property in Australia - what are the advantages and disadvantages of building a house vs buying an existing one?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3875,Does freedom to provide services allow me contracting in Germany without paying taxes there (but in my home EU country)?,0.9197,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3888,Why I can't view my debit card pre-authorized amounts?,0.0,0.0,0.1413,0.3333,0.0,0.0,0.0,0.0,0.0,0.0
+3909,How to rescue my money from negative interest?,0.0,0.0,0.1389,0.1,0.2906,0.3,0.1389,0.1,0.3149,0.2
+3932,How do historically low interest rates affect real estate prices?,0.0,0.0,0.6509,1.0,0.0,0.0,0.5438,1.0,0.1846,0.5
+3934,Should market based health insurance premiums be factored into 6 months emergency fund savings?,0.1301,0.25,0.0,0.0,0.1391,0.25,0.1175,0.25,0.1301,0.25
+3995,"I have more than $250,000 in a US Bank account… mistake?",0.0,0.0,0.1208,0.2,0.1461,0.2,0.2152,0.4,0.0,0.0
+4007,What is a reasonable salary for the owner and sole member of a small S-Corp?,0.6257,0.6667,0.6714,0.6667,0.6714,0.6667,0.7039,0.6667,0.7039,0.6667
+4011,How can I deal with a spouse who compulsively spends?,0.4693,0.3333,1.0,1.0,0.6714,0.6667,1.0,1.0,0.4162,0.6667
+4019,How and Should I Invest (As a college 18 year old with minimal living expenses)?,0.0,0.0,0.1696,0.2,0.312,0.4,0.1696,0.2,0.3836,0.4
+4031,28 years old and just inherited large amount of money and real estate - unsure what to do with it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4037,How separate individual expenses from family expenses in Gnucash?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4047,Does doing your “research”/“homework” on stocks make any sense?,0.8319,0.75,0.9005,1.0,0.9829,1.0,0.955,1.0,0.8756,1.0
+4071,"If our economy crashes, and cash is worthless, should i buy gold or silver",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4084,What industries soar when oil prices go up?,0.0,0.0,0.4306,1.0,0.3066,0.5,0.3869,0.5,0.6934,1.0
+4102,How can I determine if my rate of return is “good” for the market I am in?,0.0,0.0,0.1391,0.25,0.1232,0.25,0.1391,0.25,0.0,0.0
+4103,What causes US Treasury I bond fixed interest to increase?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4105,As an investor what are side effects of Quantitative Easing in US and in EU?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4116,Would the effects of an anticipated default by a nation be mostly symbolic?,0.2641,0.5,0.9197,1.0,0.6131,0.5,0.9197,1.0,0.6131,0.5
+4125,Alternative means of salary for my employees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4142,Relation between inflation rates and interest rates,0.0,0.0,0.3072,0.5,0.243,0.5,0.2566,0.5,0.2566,0.5
+4153,How do I invest in emerging markets,0.0,0.0,0.0,0.0,0.301,1.0,0.0,0.0,0.0,0.0
+4179,Why could the serious financial woes of some EU member states lead to the end of the Euro?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,0.3562,1.0
+4188,Why is the stock market rising after Trump's attack on the TPP?,0.0,0.0,0.2891,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,What are the ins/outs of writing equipment purchases off as business expenses in a home based business?,0.0,0.0,0.0,0.0,0.1672,0.3333,0.148,0.3333,0.0,0.0
+4205,How and why does the exchange rate of a currency change almost everyday?,0.0,0.0,0.5307,0.6667,0.3152,0.6667,0.4367,0.6667,0.4693,0.3333
+4233,"Are personal finance / money management classes taught in high school, anywhere?",0.8013,0.8,0.6992,0.6,0.8539,0.8,0.8297,0.8,0.8688,0.8
+4265,Does it make any sense to directly contribute to reducing the US national debt?,0.3026,0.1667,0.5944,0.5,0.6717,0.6667,0.589,0.5,0.7526,0.6667
+4286,"Given advice “buy term insurance and invest the rest”, how should one “invest the rest”?",0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+4289,Does the currency exchange rate contain any additional information at all?,0.0,0.0,0.3869,0.5,0.0,0.0,0.3066,0.5,0.6131,0.5
+4306,How do currency markets work? What factors are behind why currencies go up or down?,0.5856,0.5,0.5205,0.5,0.5585,0.5,0.5414,0.5,0.3904,0.25
+4312,Is it true that 90% of investors lose their money?,0.7641,0.7143,0.5307,0.4286,0.7568,0.7143,0.6134,0.5714,0.512,0.5714
+4335,What is the US Fair Tax?,0.5856,0.5,0.7542,0.75,0.5856,0.5,0.7537,0.75,0.5135,0.5
+4339,What could happen to Detroit Municipal bonds because of Detroit's filing for bankruptcy?,0.8772,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4394,"Transfer $50k to another person's account (in California, USA)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4409,My friend wants to put my name down for a house he's buying. What risks would I be taking?,0.0,0.0,0.52,0.4,0.11,0.1,0.5077,0.4,0.5638,0.4
+4411,How does the importance of a cash emergency fund change when you live in a country with nationalized healthcare?,0.1357,0.3333,0.1357,0.3333,0.2346,0.3333,0.2961,0.3333,0.4693,0.3333
+4414,Do high interest rates lead to higher bond yields or lower?,0.3869,0.5,0.3869,0.5,0.6131,0.5,0.3869,0.5,0.2044,0.5
+4415,How much is inflation?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4433,When should you use an actively managed mutual fund in a 401k?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4447,Should I always hold short term bonds till maturity?,1.0,1.0,0.4307,1.0,0.6309,1.0,0.5,1.0,0.5,1.0
+4464,Are Australian mutual fund fees large compared to US?,0.0,0.0,0.2891,1.0,0.3869,1.0,0.4307,1.0,0.6309,1.0
+4465,How to donate to charity that will make a difference?,0.0,0.0,0.0,0.0,0.2021,0.3333,0.1672,0.3333,0.0,0.0
+4484,Has the likelihood of getting a lower interest rate by calling & asking been reduced by recent credit card regulations?,0.301,1.0,1.0,1.0,0.5,1.0,0.6309,1.0,0.5,1.0
+4499,Is investing exlusively in a small-cap index fund a wise investment?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3296,0.6667
+4500,What to ask Warren Buffet at the Berkshire Hathaway shareholder meeting?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4504,what is the best way of investment which gives returns forever?,0.6131,0.5,1.0,1.0,0.7904,1.0,1.0,1.0,0.8772,1.0
+4514,"What intrinsic, non-monetary value does gold have as a commodity?",0.1513,0.1667,0.4104,0.3333,0.308,0.3333,0.3212,0.3333,0.3901,0.3333
+4523,What should I do with my $25k to invest as a 20 years old?,0.0,0.0,0.327,0.4,0.1208,0.2,0.327,0.4,0.0,0.0
+4539,How should I save money if the real interest rate (after inflation) is negative?,0.0,0.0,0.1846,0.5,0.1772,0.5,0.1772,0.5,0.1846,0.5
+4571,"HSBC Hong Kong's “Deposit Plus” Product: What is it, and what strategies to employ?",0.4693,0.3333,0.7654,0.6667,0.6257,0.6667,0.7654,0.6667,0.7654,0.6667
+4600,"Why government bonds fluctuate so much, even though interest rates don't change that often?",0.3333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+4605,"If the U.S. defaults on its debt, what will happen to my bank money?",0.0,0.0,0.6166,0.5714,0.3069,0.4286,0.5209,0.5714,0.3665,0.2857
+4615,Are solar cell panels and wind mills worth the money?,0.1303,0.1667,0.7403,0.6667,0.6788,0.6667,0.7619,0.6667,0.6375,0.6667
+4640,What can my relatives do to minimize their out of pocket expenses on their fathers estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1564,0.3333
+4641,Where should I park my rainy-day / emergency fund?,0.0,0.0,0.6296,0.6,0.0,0.0,0.4857,0.6,0.1696,0.2
+4678,"Finance, Cash or Lease?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4681,How to fix Finance::Quote to pull quotes in GnuCash,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4700,Better to get loan from finance company or bank considering the drop of credit score?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4714,Personal finance app where I can mark transactions as “reviewed”?,0.5646,0.75,0.6367,0.5,0.8319,0.75,0.8319,0.75,0.6367,0.5
+475,Do I need a new EIN since I am hiring employees for my LLC?,0.3562,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,0.6309,1.0
+4756,What is the formula for the Tesla Finance calculation?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4767,New car: buy with cash or 0% financing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4775,Should I finance a car to build credit for a mortgage next year?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4777,How to finance necessary repairs to our home in order to sell it?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4785,What is the difference between a structured collar and a normal collar in finance?,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4804,How do financial services aimed at women differ from conventional services?,0.0,0.0,0.5,1.0,0.3869,0.5,0.5438,1.0,0.5803,1.0
+4813,Dealer Financing Fell Through on vehicle purchase: Scam?,0.4307,1.0,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4823,"Close to retirement & we may move within 7 years. Should we re-finance our mortgage, or not?",0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+4827,Are all financial advisors compensated in the same way?,0.0,0.0,0.6309,1.0,0.0,0.0,0.6309,1.0,0.5,1.0
+4837,"When applying for a mortgage, can it also cover outstanding debts?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4844,"How to read bond yield quotes? What do the time, coupon, price, yield, and time mean?",0.7977,1.0,0.6131,0.5,0.8316,1.0,0.7977,1.0,0.8175,1.0
+4845,What is the difference between fund and portfolio?,0.148,0.3333,0.7654,0.6667,0.9675,1.0,0.9066,1.0,0.4693,0.3333
+4846,Is there anything comparable to/resembling CNN's Fear and Greed Index?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4863,How to calculate new price for bond if yield increases,0.2961,0.3333,0.6364,0.6667,0.7039,0.6667,0.6714,0.6667,0.7654,0.6667
+4865,Why are historical prices of stocks different on different websites? Which one should I believe?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4920,Does financing a portfolio on margin affect the variance of a portfolio?,0.7921,1.0,1.0,1.0,0.9675,1.0,1.0,1.0,0.9675,1.0
+4942,find stock composition of a publicly traded fund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4946,Something looks off about Mitsubishi financial data,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4955,How to calculate the value of a bond that is priced to yield X%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4962,Net Cash Flows from Selling the Bond and Investing,0.2641,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.6131,0.5
+4968,Reasons behind a large price movement of a penny stock without any recent news releases?,0.3562,1.0,0.0,0.0,0.6309,1.0,0.5,1.0,0.301,1.0
+4981,Where can I find open source portfolio management software?,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667
+4999,Looking for a good source for Financial Statements,0.2463,0.25,0.6976,0.75,0.3904,0.25,0.5135,0.5,0.3904,0.25
+5021,"Is there a more flexible stock chart service, e.g. permitting choice of colours when comparing multiple stocks?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+503,Privacy preferences on creditworthiness data,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5030,Why pay for end-of-day historical prices?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+504,Have plenty of cash flow but bad credit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5045,Why are we taxed on revenue and companies on profit?,0.0,0.0,0.3155,1.0,0.0,0.0,0.301,1.0,0.3333,1.0
+5054,How to stress test an investment plan?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5061,What fiscal scrutiny can be expected from IRS in early retirement?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5064,How much should a graduate student attempt to save?,0.3869,0.5,0.8772,1.0,0.9197,1.0,0.8503,1.0,0.8772,1.0
+5067,LLC: Where should the funds for initial startup costs come from?,0.3155,1.0,0.0,0.0,0.3869,1.0,0.301,1.0,0.3562,1.0
+5080,Is there a standard or best practice way to handle money from an expiring UTMA account?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5083,Co-signer deceased,0.0,0.0,0.3869,0.5,0.0,0.0,0.2184,0.5,0.3869,0.5
+5085,What is vested stock and yearly dividends?,0.3869,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,1.0,1.0
+5086,Mortgage loan implications when tearing down existing house and building new one?,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5090,Should I take a student loan to pursue my undergraduate studies in France?,0.0,0.0,0.6131,0.5,0.2044,0.5,0.6131,0.5,0.2184,0.5
+5125,Regarding Australian CBS takeover of TEN,1.0,1.0,0.0,0.0,1.0,1.0,0.6309,1.0,1.0,1.0
+5134,Why does Yahoo Finance's data for a Vanguard fund's dividend per share not match the info from Vanguard?,0.3869,0.5,0.2372,0.5,0.3869,0.5,0.3066,0.5,0.3869,0.5
+515,financial institution wants share member break down for single member LLC,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5150,What credit card information are offline US merchants allowed to collect for purposes other than the transaction?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5155,"For insurance, why should you refuse $4,000/year for only 10 years and prefer $500/year indefinitely?",0.6309,1.0,0.0,0.0,1.0,1.0,0.3155,1.0,1.0,1.0
+5172,does interest payment on loan stay the same if I pay early,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5178,Formula that predicts whether one is better off investing or paying down debt,0.0,0.0,0.7227,0.6,0.214,0.2,0.6548,0.6,0.214,0.2
+5185,Invest in low cost small cap index funds when saving towards retirement?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5196,I might use a credit card convenience check. What should I consider?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5206,Is it a good idea to get an unsecured loan to pay off a credit card that won't lower a high rate?,0.0,0.0,0.1171,0.1667,0.0,0.0,0.0955,0.1667,0.0,0.0
+5228,How does the bank/IRS know whether a bank transfer over $14k is a gift or loan repayment?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5231,Where to find CSV or JSON data for publicly traded companies listed with their IPO date?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5241,Mortgage vs. Cash for U.S. home buy now,0.3392,0.2,0.4522,0.4,0.3392,0.2,0.4413,0.4,0.4522,0.4
+5254,How do I calculate the quarterly returns of a stock index?,0.3869,0.5,0.2372,0.5,0.6131,0.5,0.3869,0.5,0.3066,0.5
+5255,Thrift Saving Plan (TSP) Share Price Charts,0.9675,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9218,1.0
+5264,Does a company's stock price give any indication to or affect their revenue?,0.5531,0.4,0.6992,0.6,0.5531,0.4,0.6512,0.6,0.5531,0.4
+5271,Why are auto leases stubbornly strict about visa status and how to work around that?,0.0,0.0,0.2021,0.3333,0.3836,0.6667,0.3434,0.6667,0.4982,0.6667
+529,Sole proprietorship or LLC?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5331,Exercises of employee share options,1.0,1.0,0.6309,1.0,1.0,1.0,0.6309,1.0,0.6309,1.0
+5343,“International credit report” for French nationals?,0.0,0.0,0.3869,1.0,0.0,0.0,0.3869,1.0,0.0,0.0
+5347,car loan life insurance,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5356,Historical stock prices: Where to find free / low cost data for offline analysis?,0.0,0.0,0.312,0.4,0.2152,0.4,0.2826,0.4,0.1696,0.2
+5369,Paying for things on credit and immediately paying them off: any help for credit rating?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5374,What were the main causes of the spike and drop of DRYS's stock price?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5380,"Can somebody explain “leveraged debt investment positions” and “exposures” in this context for me, please?",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5402,Is it impossible to get a home loan with a poor credit history after a divorce?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3066,0.5
+5410,Dealership made me the secondary owner to my own car,0.0,0.0,0.4693,0.3333,0.1815,0.3333,0.2346,0.3333,0.2961,0.3333
+5422,"What are some good books for learning stocks, bonds, derivatives e.t.c for beginner with a math background?",0.0,0.0,0.1952,0.25,0.1175,0.25,0.151,0.25,0.1175,0.25
+5427,How do auto-loan payments factor into taxes for cars that are solely used by dependent(s)?,0.0,0.0,0.3869,0.5,0.0,0.0,0.3869,0.5,0.0,0.0
+5460,Paying off a loan with a loan to get a better interest rate,0.1021,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5464,Resources on Buying Rental Properties,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+547,What percentage of my company should I have if I only put money?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+549,Where to request ACH Direct DEBIT of funds from MY OWN personal bank account?,0.0,0.0,1.0,1.0,0.3155,1.0,0.6309,1.0,1.0,1.0
+5503,Tax considerations for selling a property below appraised value to family?,0.0,0.0,0.6131,0.5,0.3066,0.5,0.3869,0.5,0.6131,0.5
+5505,Can I deduct interest and fees on a loan for qualified medical expenses?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+5511,Pay off car loan entirely or leave $1 until the end of the loan period?,0.0,0.0,0.11,0.1,0.0,0.0,0.0734,0.1,0.0948,0.1
+5534,How does “taking over payments” work?,0.0,0.0,0.3869,0.5,0.2641,0.5,0.3869,0.5,0.6131,0.5
+5549,Pros / cons of being more involved with IRA investments [duplicate],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5585,Is there any site you can find out about the 'bonus features' of credit cards?,0.0,0.0,0.301,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+559,"Challenged an apparently bogus credit card charge, what happens now?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5592,Are “hard money loans” meant only for real estate?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+56,Can a entrepreneur hire a self-employed business owner?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0
+5616,How and where do companies publish financial reports?,0.0,0.0,0.301,1.0,0.301,1.0,0.301,1.0,0.301,1.0
+5620,What's the fuss about identity theft?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5646,Do I need multiple credit monitoring services?,0.6049,0.6667,1.0,1.0,0.9218,1.0,1.0,1.0,1.0,1.0
+5653,Steps and timing of the SEIS investment (in the UK),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5683,What is the PEG ratio? How is the PEG ratio calculated? How is the PEG ratio useful for stock investing?,0.8503,1.0,1.0,1.0,0.9197,1.0,1.0,1.0,0.6934,1.0
+570,Employer options when setting up 401k for employees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5710,Bucketing investments to track individual growths,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5741,Learning investing and the stock market,0.0,0.0,0.6131,0.5,0.2184,0.5,0.6131,0.5,0.2641,0.5
+5763,What is the best way to get a “rough” home appraisal prior to starting the refinance process?,0.1413,0.3333,0.2961,0.3333,0.4693,0.3333,0.4693,0.3333,0.2346,0.3333
+5782,"Pay off credit cards in one lump sum, or spread over a few months?",0.214,0.2,0.3392,0.2,0.3392,0.2,0.3392,0.2,0.3392,0.2
+5790,FX losses on non-UK mortgage for UK property - tax deductable?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5808,How do you calculate return on investment for a share of stock?,0.301,1.0,0.3869,1.0,0.5,1.0,0.5,1.0,0.4307,1.0
+585,Following an investment guru a good idea?,0.0,0.0,0.3869,0.5,0.1934,0.5,0.3869,0.5,0.0,0.0
+5853,Paying Off Principal of Home vs. Investing In Mutual Fund,0.0,0.0,0.2327,0.25,0.2108,0.25,0.2439,0.25,0.2861,0.25
+5862,Can I get a discount on merchandise by paying with cash instead of credit?,0.3904,0.25,0.1681,0.25,0.2685,0.5,0.2622,0.5,0.1391,0.25
+588,Is there a reason to buy a 0% yield bond?,0.6131,0.5,0.3066,0.5,0.6131,0.5,0.6131,0.5,0.8316,1.0
+5888,Interest charges on balance transfer when purchases are involved,0.3066,0.5,0.1772,0.5,0.2641,0.5,0.2641,0.5,0.3066,0.5
+5903,"Fees aside, what factors could account for performance differences between U.S. large-cap index ETFs?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5906,0% APR first 12 months on new credit card. Can I exceed that 30% rule of thumb and not hurt my credit score?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+594,Should a retail trader bother about reading SEC filings,0.3869,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+5940,How does investment into a private company work?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5951,Why can't house prices be out of tune with salaries,0.34,0.3333,0.3526,0.2222,0.5758,0.5556,0.2495,0.2222,0.3944,0.4444
+5970,How to calculate ownership for property with a partner,0.0,0.0,0.4317,0.6667,0.6714,0.6667,0.4982,0.6667,0.0,0.0
+5981,Is it a good investment for a foreigner to purchase a flat/apartment in China?,0.8539,0.8,1.0,1.0,0.8688,0.8,1.0,1.0,0.9818,1.0
+5993,Why would anyone want to pay off their debts in a way other than “highest interest” first?,0.1584,0.1333,0.4035,0.2,0.2489,0.1333,0.3152,0.2,0.0784,0.0667
+6002,15 year mortgage vs 30 year paid off in 15,0.6602,0.5455,0.8166,0.7273,0.7728,0.6364,0.7503,0.6364,0.7917,0.6364
+6004,Put-Call parity - what is the difference between the two representations?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6005,Why might it be advisable to keep student debt vs. paying it off quickly?,0.4499,0.3077,0.4537,0.2308,0.5389,0.3077,0.5934,0.3846,0.3188,0.2308
+6009,Why can low volume move a stock price drastically?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+603,Will one’s education loan application be rejected if one doesn't have a payslip providing collateral?,0.0,0.0,1.0,1.0,0.3333,1.0,1.0,1.0,0.6309,1.0
+604,"Is there a dollar amount that, when adding Massachusetts Sales Tax, precisely equals $200?",0.0,0.0,0.634,1.0,0.0,0.0,0.5431,1.0,0.7039,0.6667
+6041,Most effective Fundamental Analysis indicators for market entry,0.7598,0.75,0.7495,0.75,0.7757,0.75,0.7668,0.75,0.6976,0.75
+6080,Is ScholarShare a legitimate entity for a 529 plan in California?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+6110,Why does short selling require borrowing?,0.4125,0.25,0.3619,0.25,0.3794,0.25,0.4884,0.375,0.4228,0.375
+6121,What are my best options if I don't have a lot of credit lines for housing loans?,0.0,0.0,0.8175,1.0,0.2372,0.5,0.7904,1.0,0.1846,0.5
+6122,Better to rent condo to daughter or put her on title?,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+6131,Is it ever a good idea to close credit cards?,0.1389,0.0833,0.4153,0.25,0.3052,0.1667,0.4627,0.3333,0.3938,0.25
+6133,What happens to all of the options when they expire?,0.2372,0.5,0.2372,0.5,0.6131,0.5,0.6131,0.5,0.3066,0.5
+6142,How does stabilization work during an IPO?,0.3869,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+6146,Lost credit card replaced with new card and new numbers. Credit score affected?,0.6131,0.5,1.0,1.0,0.6131,0.5,1.0,1.0,0.9197,1.0
+6199,How can all these countries owe so much money?  Why & where did they borrow it from?,0.2463,0.25,0.6367,0.5,0.6976,0.75,0.6367,0.5,0.5646,0.75
+620,Is it wise to have plenty of current accounts in different banks?,0.0,0.0,0.107,0.2,0.0,0.0,0.098,0.2,0.0,0.0
+6219,Are there Investable Real Estate Indices which track Geographical Locations?,1.0,1.0,0.8772,1.0,1.0,1.0,1.0,1.0,0.9197,1.0
+622,"Accidentally opened a year term CD account, then realized I need the money sooner. What to do?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2044,0.5
+6221,"To pay off a student loan, should I save up a lump sum payoff payment or pay extra each month?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6252,"Is this mortgage advice good, or is it hooey?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6262,Help required on estimating SSA benefit amounts,0.1413,0.3333,0.7654,0.6667,0.5307,0.6667,0.7039,0.6667,0.7039,0.6667
+6278,What is the best way to help my dad consolidate his credit card debt at a lower rate?,0.6131,0.5,0.6934,1.0,0.8316,1.0,0.9197,1.0,0.6934,1.0
+6395,Option settlement for calendar spreads,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6410,Will an ETF immediately reflect a reconstitution of underlying index,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6420,Does the bid/ask concept exist in dealer markets?,0.8316,1.0,0.9197,1.0,1.0,1.0,1.0,1.0,0.8066,1.0
+6441,Trading with Settled / Unsettled Funds (T+3),0.4307,1.0,0.2891,1.0,0.3869,1.0,0.3562,1.0,0.3562,1.0
+6467,Advice on strategy for when to sell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6468,Why deep in the money options have very low liquidity,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+6479,Trading on exchanges or via brokerage companies?,0.9197,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9197,1.0
+6525,Does it make sense to trade my GOOGL shares for GOOG and pocket the difference?,0.4776,0.6667,0.2961,0.3333,0.2346,0.3333,0.2961,0.3333,0.4693,0.3333
+6554,"Mutual fund value went down, shares went up, no action taken by me",0.1934,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.3869,0.5
+6562,"Cheapest way to “wire” money in an Australian bank account to a person in England, while I'm in Laos?",0.0,0.0,0.3904,0.25,0.0,0.0,0.1681,0.25,0.1128,0.25
+659,Buying from an aggressive salesperson,0.312,0.3,0.5737,0.5,0.5068,0.4,0.6055,0.5,0.4323,0.5
+6611,How does Vanguard determine the optimal asset allocation for their Target Retirement Funds?,0.2372,0.5,1.0,1.0,0.6509,1.0,1.0,1.0,0.6241,1.0
+6612,"If I have a lot of debt and the housing market is rising, should I rent and slowly pay off my debt or buy and roll the debt into a mortgage?",0.0,0.0,0.1672,0.3333,0.2346,0.3333,0.2021,0.3333,0.1413,0.3333
+6625,What does a high theta mean for an option position?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0
+6629,Tax treatment of a boxed trade?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6635,Why don't share prices of a company rise every other Friday when the company buys shares for its own employees?,0.5205,0.5,0.5294,0.5,0.6367,0.5,0.6367,0.5,0.6367,0.5
+6644,How to know precisely when a SWIFT is issued by a bank?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6647,What is meant by “priced in”?,0.0,0.0,0.7654,0.6667,0.4982,0.6667,0.7039,0.6667,0.6364,0.6667
+6668,Approximate IT company valuation (to proximate stock options value),0.3066,0.5,0.2044,0.5,0.3869,0.5,0.3066,0.5,0.2641,0.5
+6679,Specifically when do options expire?,0.0,0.0,0.5307,0.6667,0.4373,0.6667,0.5307,0.6667,0.7039,0.6667
+6683,Who are the sellers for the new public stocks?,0.1772,0.5,0.0,0.0,0.3066,0.5,0.0,0.0,0.2044,0.5
+6713,Will my father still be eligible for SNAP if I claim him as my dependent?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+6715,What does it mean if “IPOs - normally are sold with an `underwriting discount` (a built in commission)”,0.6131,0.5,0.4144,1.0,0.4144,1.0,0.5803,1.0,1.0,1.0
+672,Credit and Debit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6746,What happens if stock purchased on margin plummets below what I have in the brokerage?,0.0,0.0,0.3869,0.5,0.2641,0.5,0.3066,0.5,0.0,0.0
+6787,"Would it make sense to sell a stock, then repurchase it for tax purposes?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6792,Where to find the full book of outstanding bids/asks for a stock?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Intentions of Deductible Amount for Small Business,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6800,I don't live in America. How can I buy IPO stock of newly listed companies in the United States?,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+6803,What are the common moving averages used in a “Golden Cross” stock evaluation?,0.1952,0.25,0.676,0.75,0.3854,0.5,0.5585,0.5,0.1128,0.25
+6807,How to incorporate dividends while calculating annual return of a Stock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+6814,Selling Stock - All or Nothing?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6832,incorrect printed information on check stock,0.0,0.0,0.1934,0.5,0.2044,0.5,0.1772,0.5,0.2044,0.5
+6835,Are bond ETF capital gains taxed similar to stock or stock funds if held for more than 1 year?,0.0,0.0,0.3869,0.5,0.3869,0.5,0.3869,0.5,0.0,0.0
+684,"Beyond RRSP deductions, how does a high income earner save on taxes?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6849,What do the points in a stock market index epresent?,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4307,1.0
+6862,Canada discount stock brokers: Interactive Brokers vs. Questrade?,0.0,0.0,1.0,1.0,0.4307,1.0,0.6309,1.0,0.6309,1.0
+6867,Will there always be somebody selling/buying in every stock?,0.0,0.0,0.5546,0.4286,0.2749,0.1429,0.5462,0.4286,0.2918,0.2857
+687,Online tool to connect to my bank account and tell me what I spend in different categories?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6875,Where to find free Thailand stock recommendations and research?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+689,Receive credit card payment sending my customer details to a credit card processing company?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6890,Where does the money go when I buy stocks?,0.0,0.0,0.6131,0.5,0.0,0.0,0.6131,0.5,0.0,0.0
+6891,What is the theory behind Rick Van Ness's risk calculation in the video about diversification?,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+6896,"Selling high, pay capital gains, re-purchase later",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6901,Rules for Broker Behavior with Covered Calls,0.0,0.0,0.0,0.0,0.1772,0.5,0.0,0.0,0.2044,0.5
+6907,Nominal value of shares,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6909,Why do stocks priced above $2.00 on the ASX sometimes move in $0.005 increments?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+691,How to categorize credit card payments?,0.3869,1.0,0.0,0.0,0.5,1.0,0.3562,1.0,0.4307,1.0
+6959,What is the term for the quantity (high price minus low price) for a stock?,0.0,0.0,0.6131,0.5,0.1846,0.5,0.3869,0.5,0.0,0.0
+6985,"Bed and Breakfast, Same Day Capital Gains UK",0.6309,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,1.0,1.0
+699,Prepaid Rent (Accrual Based Accounting),0.3333,1.0,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+701,What are the ins/outs of writing-off part of one's rent for working at home?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7017,Basic Algorithmic Trading Strategy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7068,Making money through CFD,0.8316,1.0,0.2044,0.5,0.5706,1.0,0.5438,1.0,0.3869,0.5
+7071,ESPP strategy - Sell right away or hold?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7080,Wash sale rule with dividend reinvestment,0.8175,1.0,0.6131,0.5,0.8066,1.0,0.7977,1.0,0.8503,1.0
+7096,What's the formula for profits and losses when I delta hedge?,0.0,0.0,0.5,1.0,0.5,1.0,0.4307,1.0,0.4307,1.0
+7098,Can another tax loss be used to offset capital gains taxes? How does it work?,0.3869,0.5,0.7977,1.0,0.6131,0.5,0.6131,0.5,0.6131,0.5
+7105,What is the difference between fixed-income duration and equity duration?,0.3333,1.0,0.5,1.0,0.5,1.0,0.5,1.0,0.5,1.0
+7109,How do I analyse moving averages?,0.4693,0.3333,0.2021,0.3333,0.4317,0.6667,0.4373,0.6667,0.2961,0.3333
+7124,How come we can find stocks with a Price-to-Book ratio less than 1?,0.0,0.0,0.3904,0.25,0.3904,0.25,0.3904,0.25,0.3904,0.25
+7141,Do investors go long option contracts when they cannot cover the exercise of the options?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7145,Are there “buy and hold” passively managed funds?,0.0,0.0,0.4317,0.6667,0.0,0.0,0.2346,0.3333,0.1815,0.3333
+715,what would you do with $100K saving?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7178,Should an ADR that is being delisted be sold off?,0.0,0.0,1.0,1.0,0.301,1.0,1.0,1.0,0.0,0.0
+7188,What explains the enormous increase in gold price in the early 21st century?,0.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0
+7205,Is it possible to see option prices from the past?,0.3869,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7206,Who Bought A Large Number Of Shares?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+721,What are “upstream investments” and “downstream investments” in this context?,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7218,What margin is required to initiate and maintain a short sale,0.3869,1.0,0.0,0.0,0.3155,1.0,0.3155,1.0,0.6309,1.0
+7221,How Technical Analysts react to non-market hours effects,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7269,How do I track investment performance in Quicken across rollovers?,0.0,0.0,0.3562,1.0,0.0,0.0,0.301,1.0,0.0,0.0
+7279,"If I invest in securities denominated in a foreign currency, should I hedge my currency risk?",0.2685,0.5,0.7495,0.75,0.4144,0.5,0.5856,0.5,0.1952,0.25
+7295,Selling non-dividend for dividend stocks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7311,"Finance, Social Capital IPOA.U",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7326,Do brokers execute every trade on the exchange?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7329,Does Implied Volatilty factor in all known future events?,0.0,0.0,0.3869,0.5,0.1846,0.5,0.3869,0.5,0.2641,0.5
+7344,How is the Dow divisor calculated?,0.3869,0.5,0.6131,0.5,0.3869,0.5,0.6131,0.5,0.3869,0.5
+7345,What do these numbers mean? (futures),0.0,0.0,0.3378,0.6667,0.1564,0.3333,0.2021,0.3333,0.1413,0.3333
+7377,What type of returns Vanguard is quoting?,0.3562,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0
+7431,Pay off mortgage or invest in high value saving account,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+744,What options are available for a home loan with poor credit but a good rental history?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7441,"Since many brokers disallow investors from shorting sub-$5 stocks, why don't all companies split their stock until it is sub-$5",0.1564,0.3333,0.2346,0.3333,0.6364,0.6667,0.4693,0.3333,0.4441,0.6667
+7445,IS it the wrong time to get into the equity market immediately after large gains?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7448,"If an index goes up because an underlying company issues more shares, what happens to the ETF",1.0,1.0,0.3562,1.0,0.6309,1.0,1.0,1.0,1.0,1.0
+7456,What is market order's relation to bid ask spread?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7463,Pros/cons of borrowing money using a mortgage loan and investing it in a low-fee index fund?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7467,Stocks are traded on secondary markets?,0.3155,1.0,1.0,1.0,0.5,1.0,0.6309,1.0,1.0,1.0
+7484,Why sometimes payable date is BEFORE the ex-dividend date?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+750,Paid part of my state refund back last year; now must declare the initial amount as income?,0.7977,1.0,0.8175,1.0,0.8772,1.0,0.8503,1.0,0.8316,1.0
+7509,Investment Portfolio Setup for beginner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7512,understanding the process/payment of short sale dividends,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7513,Where are Bogleheadian World ETFs or Index funds?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7529,Does the expense ratio of a fund-of-funds include the expense ratios of its holdings?,0.3066,0.5,0.2044,0.5,0.2641,0.5,0.2372,0.5,0.2044,0.5
+753,Taxes due for hobbyist Group Buy,0.0,0.0,0.1772,0.5,0.2372,0.5,0.1772,0.5,0.3869,0.5
+7533,Investing tax (savings),0.0,0.0,0.0,0.0,0.2044,0.5,0.0,0.0,0.0,0.0
+7534,Can you explain why it's better to invest now rather than waiting for the market to dip?,0.2961,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+7590,Why are US target retirement funds weighted so heavily towards US stocks?,0.3869,0.5,0.6934,1.0,0.6053,1.0,0.6934,1.0,0.8772,1.0
+7592,few question about debit credit and liabilities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7594,Converting annual interbank rates into monthly rates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7622,Best way to pay off debt?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7633,Can a trade happen “in between” the bid and ask price?,0.3904,0.25,0.3904,0.25,0.3904,0.25,0.3904,0.25,0.3904,0.25
+766,Will the ex-homeowner still owe money after a foreclosure?,0.0,0.0,0.148,0.3333,0.1815,0.3333,0.148,0.3333,0.2346,0.3333
+7674,Choosing the limit when making a limit order?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7700,Should I re-allocate my portfolio now or let it balance out over time?,0.0,0.0,0.1681,0.25,0.0,0.0,0.1391,0.25,0.0,0.0
+7702,Bond ETFs vs actual bonds,0.6131,0.5,0.2184,0.5,0.1934,0.5,0.2044,0.5,0.4218,1.0
+7705,Why would I pick a specific ETF over an equivalent Mutual Fund?,0.3836,0.6667,0.4317,0.6667,0.4982,0.6667,0.4776,0.6667,0.2346,0.3333
+7734,Can PE ratio of stocks be compared to other investments?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+7747,What happens to bonds values when interest rates rise? [duplicate],0.0,0.0,0.0,0.0,0.1772,0.5,0.0,0.0,0.0,0.0
+7754,Inverse Relationship between Volatility and Beta,0.0,0.0,1.0,1.0,0.3155,1.0,0.6309,1.0,0.5,1.0
+7758,Bid/ask spreads for index funds,0.0,0.0,1.0,1.0,0.4307,1.0,1.0,1.0,0.5,1.0
+776,"Can saving/investing 15% of your income starting age 25, likely make you a millionaire?",0.2201,0.0833,0.3811,0.25,0.3558,0.25,0.3964,0.25,0.2935,0.1667
+7801,What are some well known or well regarded arguments against investing?,0.3066,0.5,0.8175,1.0,0.9197,1.0,1.0,1.0,1.0,1.0
+7803,Can the Delta be used to calculate the option premium given a certain target?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7823,Retirement Funds: Betterment vs Vanguard Life strategy vs Target Retirement,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+7876,Why do stocks split?,0.2891,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3562,1.0
+7879,Any Tips on How to Get the Highest Returns Within 4 Months by Investing in Stocks?,0.0,0.0,0.0,0.0,0.1564,0.3333,0.0,0.0,0.1815,0.3333
+7880,Are there index tracking funds that avoid the “buy high - sell low” problem?,0.3869,0.5,0.0,0.0,0.2372,0.5,0.2044,0.5,0.1846,0.5
+7911,What is the difference between a 'trader' and a 'stockbroker'?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7925,Can I sell a stock immediately?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7928,"If I believe a stock is going to fall, what options do I have to invest on this?",0.2463,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.151,0.25
+7936,Why naked call writing is risky compare to Covered call?,0.1564,0.3333,0.5307,0.6667,0.3759,0.6667,0.4525,0.6667,0.338,0.6667
+7992,What type of pension should I get?,0.3066,0.5,0.1772,0.5,0.3066,0.5,0.2372,0.5,0.3066,0.5
+8,How to deposit a cheque issued to an associate in my business into my business account?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+8002,What is the tax treatment of scrip dividends in the UK?,0.2346,0.3333,0.4162,0.6667,0.2961,0.3333,0.4317,0.6667,0.2961,0.3333
+8005,Difference between Vanguard sp500 UCITS and Vanguard sp500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8013,Frequency of investments to maximise returns (and minimise fees),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8017,Purchasing ETFs when (pretty much) everything else is maxed out,0.0,0.0,0.4307,1.0,0.0,0.0,0.4307,1.0,0.5,1.0
+8034,What is the average cost of a portfolio on a trading site?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8040,Best way to make most of savings with ISA and Offset mortgage,0.6309,1.0,0.6309,1.0,0.6309,1.0,0.6309,1.0,0.6309,1.0
+8072,"What does it mean “sell on ask” , “sell on bid” in stocks?",0.4373,0.6667,0.4441,0.6667,0.6364,0.6667,0.6173,0.6667,0.3585,0.6667
+8079,Growth rate plus dividend yieid total?,0.3759,0.6667,1.0,1.0,0.9325,1.0,1.0,1.0,0.6173,0.6667
+810,Can I open a bank account in the US remotely? Will I pay taxes for the money on it?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3155,1.0
+8102,When do I sell a stock that I hold as a long-term position?,0.0,0.0,0.2463,0.25,0.151,0.25,0.2463,0.25,0.0,0.0
+8116,A-B-C Class Shares: What's the difference?,0.8503,1.0,0.5706,1.0,0.6509,1.0,0.6509,1.0,0.2044,0.5
+8121,Can I calculate stock value with Williams%R if I know the last set?,0.6309,1.0,0.3155,1.0,1.0,1.0,0.6309,1.0,0.6309,1.0
+813,Income Tax and Investments,0.0,0.0,0.0,0.0,0.1772,0.5,0.0,0.0,0.2641,0.5
+8202,What accounted for DXJR's huge drop in stock price?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8230,Why would this kind of penny stock increase so much in value?,0.0,0.0,0.1772,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+8247,Tax on Stocks or ETF's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8271,Income in zero-interest environment,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+8275,Buy/Selling prices at the stock exchange represent someone Selling/Buying at that price?,0.2891,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8296,Can the beta of a stock be used as a lagging indicator for the stock w.r.t the market,0.7904,1.0,1.0,1.0,0.8772,1.0,1.0,1.0,0.6934,1.0
+8332,Why do put option prices go higher when the underlying stock tanks (drops)?,0.6257,0.6667,0.6714,0.6667,0.6797,1.0,0.6979,1.0,0.4525,0.6667
+8351,What happens when a calendar spread is assigned in a non-margin account?,0.1934,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.6131,0.5
+8378,Should I wait a few days to sell ESPP Stock?,0.1357,0.3333,0.1672,0.3333,0.1672,0.3333,0.1564,0.3333,0.0,0.0
+8456,What typically happens to unvested stock during an acquisition?,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333
+8475,Why I cannot find a “Pure Cash” option in 401k investments?,0.5278,0.4286,0.9021,0.8571,0.9021,0.8571,0.9021,0.8571,0.8972,0.8571
+849,Accounting for reimbursements that exceed actual expenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8507,When to sell a stock?,0.0,0.0,0.0,0.0,0.1413,0.3333,0.0,0.0,0.1672,0.3333
+8512,Is it possible to transfer stock I already own into my Roth IRA without having to sell the stock?,0.3869,1.0,0.0,0.0,0.5,1.0,0.0,0.0,0.0,0.0
+8513,Buy on dip when earnings fail?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+852,Dalbar: How can the average investor lose money?,0.8603,1.0,0.906,1.0,0.906,1.0,0.906,1.0,0.4525,0.6667
+853,What will my taxes be as self employed?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8532,What do these options trading terms mean?,0.2961,0.3333,0.2961,0.3333,0.4693,0.3333,0.4693,0.3333,0.2021,0.3333
+8537,What is an “Options Account”?,0.0,0.0,0.3562,1.0,0.0,0.0,0.3562,1.0,0.3869,1.0
+8539,Can the risk of investing in an asset be different for different investors?,0.0,0.0,0.1175,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+8544,Strategies to recover from a bad short-term call options purchase where the underlying dropped instead?,0.6131,0.5,1.0,1.0,0.7977,1.0,1.0,1.0,0.6131,0.5
+858,Is it bad practice to invest in stocks that fluctuate by single points throughout the day?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+859,"Any reason to keep around my account with my old, 'big' bank?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3869,0.5
+8592,Tax implications of exercising ISOs and using proceeds to exercise more ISOs,0.3228,0.6667,0.3152,0.6667,0.1672,0.3333,0.1672,0.3333,0.6173,0.6667
+8632,"Is it best to exercise options shares when they vest, or wait",0.0,0.0,0.6131,0.5,0.2372,0.5,0.6131,0.5,0.6131,0.5
+8635,Is there any flaw in this investment scheme?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+864,Why use accounting software like Quickbooks instead of Excel spreadsheets?,0.2258,0.3333,0.5896,0.6667,0.5455,0.6667,0.5896,0.6667,0.7403,0.6667
+8702,Why is early exercise generally not recommended for an in-the-money option?,0.6714,0.6667,0.6714,0.6667,0.7039,0.6667,0.7039,0.6667,0.7654,0.6667
+8779,How does a defined contribution plan work,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1846,0.5
+8789,What does “profits to the shareholders jumped to 15 cents a share” mean?,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667,0.7654,0.6667
+879,Capital improvement and depreciation in restaurant LLC,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+8795,Stock exchanges using open outcry,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8832,Is it possible to buy commodity ETFs (e.g. silver) through Questrade?,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+8834,Pros/Cons of Buying Discounted Company Stock,0.0,0.0,0.1171,0.1667,0.2591,0.3333,0.2082,0.3333,0.4989,0.5
+885,How long do credit cards keep working after you disappear?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8855,How do i get into investing stocks [duplicate],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8874,When can you adjust for (and re-allow) a disallowed year-end (December) wash-sale loss?,0.3333,1.0,0.0,0.0,0.3562,1.0,0.0,0.0,0.5,1.0
+89,How can I deposit a check made out to my business into my personal account?,0.2125,0.3333,0.1171,0.1667,0.2468,0.3333,0.1513,0.1667,0.1513,0.1667
+8934,Dividend yield for multiple years?,0.2641,0.5,0.0,0.0,0.1772,0.5,0.0,0.0,0.2372,0.5
+8937,“In-the-Money” vs “Out-of-the-Money” Call Options,0.0,0.0,0.3562,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+8947,Can a Roth IRA be used as a savings account?,0.0,0.0,0.3066,0.5,0.1846,0.5,0.2641,0.5,0.1772,0.5
+895,California tells me I didn't file documents for an LLC that isn't mine. What do I do?,0.6309,1.0,1.0,1.0,0.6309,1.0,1.0,1.0,0.6309,1.0
+8959,How is the opening-day price of a stock decided?,0.3333,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8970,"What's the difference, if any, between stock appreciation and compound interest?",0.3066,0.5,0.9197,1.0,0.6934,1.0,0.9197,1.0,0.8772,1.0
+8974,"As a 22-year-old, how risky should I be with my 401(k) investments?",0.0979,0.125,0.3619,0.25,0.3483,0.375,0.4884,0.375,0.6479,0.5
+8982,Are Exchange-Traded Funds (ETFs) less safe than regular mutual funds?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Filing personal with 1099s versus business s-corp?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+904,How do I set up Quickbooks for a small property rental company that holds its properties in separate LLC's?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+9060,Buying puts without owning underlying,0.3869,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+9088,Brokerage account for charity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9108,"Starting an investment portfolio with Rs 5,000/-",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9115,Why does the calculation for percentage profit vary based on whether a position is short vs. long?,0.0,0.0,0.3911,0.6667,0.3487,0.6667,0.3911,0.6667,0.2346,0.3333
+9126,Short an option - random assignment?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9164,Bonds vs equities: crash theory,0.0,0.0,0.2346,0.3333,0.1815,0.3333,0.2021,0.3333,0.0,0.0
+9174,Which U.S. online discount broker is the best value for money?,0.0,0.0,0.214,0.2,0.0,0.0,0.1696,0.2,0.0,0.0
+9188,Selling mutual fund and buying equivalent ETF: Can I 1031 exchange?,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+9245,Stock Options for a company bought out in cash and stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9275,Do I have to pay a capital gains tax if I rebuy the same stock within 30 days?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+928,How can I determine if a FHA loan refinance offer is from a reputable lender,0.2641,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.3066,0.5
+929,Freelancer: Should I start a second bank account?,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+9291,Are there any consequences for investing in Vanguard's Admiral Shares funds instead of ETF's in a Roth IRA?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9296,Why would Two ETFs tracking Identical Indexes Produce different Returns?,0.0,0.0,0.3869,0.5,0.1934,0.5,0.3066,0.5,0.0,0.0
+932,Is freelance income earned by a U.S. citizen while living abroad subject to state income tax?,0.4413,1.0,0.2641,0.5,0.5803,1.0,0.3869,0.5,0.2184,0.5
+9329,Interactive Brokers: IOPTS and list of structured products,0.8316,1.0,0.6131,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+9332,What can I do with a physical stock certificate for a now-mutual company?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9381,Trade? Buy and hold? Or both?,0.0,0.0,0.0,0.0,0.2641,0.5,0.0,0.0,0.6131,0.5
+9385,Meaning of reinvestment,0.0,0.0,0.3562,1.0,0.5,1.0,0.5,1.0,0.3155,1.0
+939,How to correct a tax return filed electronically and already approved?,0.2891,1.0,0.6309,1.0,0.6309,1.0,0.6309,1.0,0.4307,1.0
+9391,Should I replace bonds in a passive investment strategy,0.0,0.0,0.5535,0.75,0.4312,0.75,0.5654,0.75,0.559,0.75
+94,Using credit card points to pay for tax deductible business expenses,0.4307,1.0,0.6309,1.0,0.5,1.0,0.5,1.0,0.4307,1.0
+9403,Abundance of Cash - What should I do?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+945,Paid by an American company but working from France: where should I pay taxes?,0.0,0.0,0.3562,1.0,0.0,0.0,0.3333,1.0,0.0,0.0
+9481,What are reasonable administrative fees for an IRA?,0.6131,0.5,0.6241,1.0,0.8175,1.0,0.6509,1.0,0.6934,1.0
+9487,Is a public company allowed to issue new shares below market price without consulting shareholders?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9548,"How do I research, analyze, and choose the right mutual fund for a roth ira?",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9556,How does pre-market trading work?,0.6309,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.6309,1.0
+9565,What are the tax benefits of dividends vs selling stock,0.6509,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+957,How can I withdraw money from my LLC?,0.2961,0.3333,0.6364,0.6667,0.7039,0.6667,0.7039,0.6667,0.5307,0.6667
+9598,How do index funds actually work?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2891,1.0
+9617,What differentiates index funds and ETFs?,0.0,0.0,0.4693,0.3333,0.1815,0.3333,0.2961,0.3333,0.4018,0.6667
+9633,Video recommendation for stock market education,0.6131,0.5,0.3066,0.5,0.6131,0.5,0.6131,0.5,0.6131,0.5
+9643,Is there any public data available to determine an ETF's holdings?,0.4307,1.0,0.3869,1.0,0.5,1.0,0.5,1.0,0.6309,1.0
+9644,"If early exercise is a bad idea, why American option is more expensive than European [duplicate]",0.3333,1.0,0.6309,1.0,0.6309,1.0,0.6309,1.0,0.3333,1.0
+9646,Do common stocks and preferred stocks have any differences in terms of percentage of the company per unit they represent?,0.2184,0.5,0.6131,0.5,0.5714,1.0,0.7977,1.0,0.3066,0.5
+9668,Do stock option prices predicate the underlying stock's movement?,0.1564,0.3333,0.2961,0.3333,0.4317,0.6667,0.2346,0.3333,0.4693,0.3333
+9701,How to bet against the London housing market?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9733,Due Diligence - Dilution?,0.0,0.0,0.2021,0.3333,0.1815,0.3333,0.2021,0.3333,0.0,0.0
+9735,What are “equity assets”?,0.301,1.0,0.0,0.0,0.4307,1.0,0.301,1.0,0.0,0.0
+9737,Long(100%)-Short(-100%) investment explanation,0.9675,1.0,0.8711,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+9771,Is there any emprical research done on 'adding to a loser',0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,"How can I make $250,000.00 from trading/investing/business within 5 years?",0.0,0.0,0.6131,0.5,0.2184,0.5,0.6131,0.5,0.0,0.0
+9808,Selling To Close,0.1564,0.3333,0.4693,0.3333,0.4693,0.3333,0.4693,0.3333,0.1672,0.3333
+9824,Where can end-of-day data be downloaded for corporate bonds?,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+9871,What should I do with the 50k I have sitting in a European bank?,0.1301,0.25,0.0,0.0,0.2463,0.25,0.1301,0.25,0.1128,0.25
+988,Where should I invest my savings?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9882,Money-market or cash-type ETFs for foreigners with U.S brokerage account,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9925,What does Chapter 11 Bankruptcy mean to an investor holding shares of a Chapter 11 Company?,0.6131,0.5,0.6131,0.5,0.7977,1.0,0.6131,0.5,0.8503,1.0
+9929,"Investing in commodities, pros and cons?",0.0,0.0,0.6131,0.5,0.3869,0.5,0.6131,0.5,0.0,0.0
+9961,Employer rollover from 403b to 401k?,0.6309,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3869,1.0
+9979,What is the best way to invest in gold as a hedge against inflation without having to hold physical gold?,0.2463,0.25,0.3904,0.25,0.5032,0.5,0.3904,0.25,0.5414,0.5
